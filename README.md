@@ -19,12 +19,10 @@
 - 📫 How to reach me **ch.daksh01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/ch__daksh" target="blank"><img src="https://img.shields.io/twitter/follow/ch__daksh?logo=twitter&style=for-the-badge" alt="ch__daksh" /></a> </p>
-<p align="left">
 <a href="https://twitter.com/ch__daksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ch__daksh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dakshchoudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dakshchoudhary/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/me.dakshchoudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/me.dakshchoudhary/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dakshchoudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dakshchoudhary/" height="30" width="40" /></a>
+<a href="https://instagram.com/me.dakshchoudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/me.dakshchoudhary/" height="30" width="40" /></a>
 <a href="https://medium.com/@ch.daksh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ch.daksh01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@medakshchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@medakshchoudhary" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@medakshchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@medakshchoudhary" height="30" width="40" /></a>
 </p>
 
